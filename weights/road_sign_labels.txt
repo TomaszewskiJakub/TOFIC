@@ -1,0 +1,3 @@
+0 green_light
+1 red_light
+2 stop

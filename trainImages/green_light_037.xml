@@ -1,0 +1,26 @@
+<annotation>
+	<folder>signs</folder>
+	<filename>green_light_037.png</filename>
+	<path>/home/patyk/Pulpit/signs/green_light_037.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green_sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>15</ymin>
+			<xmax>452</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
